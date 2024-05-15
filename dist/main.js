@@ -7,26 +7,8 @@
  * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
  */
 /******/ (() => { // webpackBootstrap
-/******/ 	var __webpack_modules__ = ({
-
-/***/ "./src/index.js":
-/*!**********************!*\
-  !*** ./src/index.js ***!
-  \**********************/
-/***/ (() => {
-
-eval("throw new Error(\"Module parse failed: Unexpected token (8:2)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n| const root = ReactDOM.createRoot(document.getElementById('root'));\\n| root.render(\\n>   <React.StrictMode>\\n|     <App />\\n|   </React.StrictMode>\");\n\n//# sourceURL=webpack://tour-ag/./src/index.js?");
-
-/***/ })
-
-/******/ 	});
-/************************************************************************/
+/******/ 	"use strict";
 /******/ 	
-/******/ 	// startup
-/******/ 	// Load entry module and return exports
-/******/ 	// This entry module doesn't tell about it's top-level declarations so it can't be inlined
-/******/ 	var __webpack_exports__ = {};
-/******/ 	__webpack_modules__["./src/index.js"]();
 /******/ 	
 /******/ })()
 ;
